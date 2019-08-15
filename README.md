@@ -1,2 +1,0 @@
-# Vueapp
-Created with CodeSandbox
